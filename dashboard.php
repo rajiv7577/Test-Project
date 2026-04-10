@@ -25,7 +25,7 @@ exit;
 <div class="container-fluid">
 
 <span class="navbar-brand">
-Admin Dashboard
+Super Admin Dashboard
 </span>
 
 <a href="logout.php" class="btn btn-danger">
